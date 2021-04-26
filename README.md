@@ -5,8 +5,8 @@ Merhaba, ben Muhammet. 14 yaşında, kendi halinde bir yazılım öğrencisiyim.
   <h1>・ Github İstatistikleri</h1>
 </p>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=fiobrum&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="150px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiobrum&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=juresk&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juresk&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="150px">
   <br><br>
 
   <h1>・İletişim / Contact</h1>
