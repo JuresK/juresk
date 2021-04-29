@@ -12,5 +12,5 @@ Merhaba, ben Muhammet. 14 yaşında, kendi halinde bir yazılım öğrencisiyim.
   <h1>・İletişim / Contact</h1>
   <a href="https://discord.com/users/793008866815901736" target="_blank"><img src="https://shields.io/badge/Juresk-111111.svg?&style=for-the-badge&logo=discord"></a>
   <a href="https://github.com/juresk" target="_blank"><img src="https://shields.io/badge/Juresk-111111.svg?&style=for-the-badge&logo=github"></a>
-  <a href="https://discord.gg/3UsGURBcXW" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge&logo=discord"></a>
+  <a href="https://discord.gg/3UsGURBcXW" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
 </div>
