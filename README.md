@@ -10,7 +10,9 @@ Merhaba, ben Muhammet. 14 yaşında, kendi halinde bir yazılım öğrencisiyim.
   <br><br>
 
   <h1>・İletişim / Contact</h1>
-  <a href="https://discord.com/users/793008866815901736" target="_blank"><img src="https://shields.io/badge/Juresk-111111.svg?&style=for-the-badge&logo=discord"></a>
-  <a href="https://github.com/juresk" target="_blank"><img src="https://shields.io/badge/Juresk-111111.svg?&style=for-the-badge&logo=github"></a>
+  <a href="https://discord.com/users/793008866815901736" target="_blank"><img src="https://shields.io/badge/Discord-111111.svg?&style=for-the-badge&logo=discord"></a>
+  <a href="https://github.com/juresk" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github"></a>
   <a href="https://discord.gg/3UsGURBcXW" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+  <a href="https://open.spotify.com/user/glrdylymdhqeff16kcz3ggo05" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://www.instagram.com/muhammetkonyalii/" target"blank_"><img src="https://img.shields.io/badge/Instagram%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
