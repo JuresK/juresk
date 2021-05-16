@@ -15,5 +15,4 @@ Merhaba, ben Muhammet. 14 yaşında, kendi halinde bir yazılım öğrencisiyim.
   <a href="https://discord.gg/3UsGURBcXW" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
   <a href="https://open.spotify.com/user/glrdylymdhqeff16kcz3ggo05" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.instagram.com/muhammetkonyalii/" target"blank_"><img src="https://img.shields.io/badge/Instagram%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.netlfix.com" target"blank_"><img src="https://img.shields.io/badge/Netflix%20-1ed760.svg?&style=for-the-badge&logo=netlix&logoColor=red"></a>
 </div>
