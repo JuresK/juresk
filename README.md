@@ -17,3 +17,5 @@ Merhaba, ben Muhammet. 15 yaşında, kendi halinde bir yazılım öğrencisiyim.
   <a href="https://open.spotify.com/user/glrdylymdhqeff16kcz3ggo05" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.instagram.com/heymawi/" target"blank_"><img src="https://img.shields.io/badge/Instagram%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
+[url=https://mynickname.com/id1762018]
+[img]https://mynickname.com/forum4t7/JuresK.gif[/img][/url]
