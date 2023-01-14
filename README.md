@@ -1,5 +1,5 @@
   <h1>・About Me</h1>
-Merhaba, ben Muhammet. 15 yaşında, kendi halinde bir yazılım öğrencisiyim. Yaklaşık 6-7 Ay önce Discord botları hakkında birkaç kod geliştirerek başladım.
+Merhaba, ben Muhammet. 16 yaşında, kendi halinde bir yazılım öğrencisiyim. Yaklaşık 2 Yıl önce Discord botları hakkında birkaç kod geliştirerek başladım.
 
 `Yakında birsürü kod & altyapılar ile sizlerle olacağım.`
   <h1>・ Github İstatistikleri</h1>
