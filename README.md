@@ -1,7 +1,11 @@
   <h1>・About Me</h1>
 Merhaba, ben Muhammet. 16 yaşında, kendi halinde bir yazılım öğrencisiyim. Yaklaşık 2 Yıl önce Discord botları hakkında birkaç kod geliştirerek başladım.
-
 `Yakında birsürü kod & altyapılar ile sizlerle olacağım.`
+
+  <h1>・ Discord Profile</h1>
+    <img src="https://lanyard-profile-readme.vercel.app/api/793008866815901736?bg=0d1117">
+  <br><br> 
+    
   <h1>・ Github İstatistikleri</h1>
 </p>
   <br>
@@ -10,10 +14,6 @@ Merhaba, ben Muhammet. 16 yaşında, kendi halinde bir yazılım öğrencisiyim.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juresk&layout=compact&theme=midnight-purple&hide_border=true" width="%100" height="150px">
   <br><br>   
   
-  <h1>・ Discord Profile</h1>
-    <img src="https://lanyard-profile-readme.vercel.app/api/793008866815901736?bg=0d1117">
-  <br><br> 
-    
   <h1>・İletişim / Contact</h1>
   <a href="https://discord.com/users/793008866815901736" target="_blank"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/juresk" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github"></a>
