@@ -12,6 +12,7 @@ Merhaba, ben Muhammet. 16 yaşında, kendi halinde bir yazılım öğrencisiyim.
   
   <h1>・ Discord Profile</h1>
     <img src="https://lanyard-profile-readme.vercel.app/api/793008866815901736?bg=0d1117">
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/793008866815901736?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/793008866815901736)
   <br><br> 
     
   <h1>・İletişim / Contact</h1>
