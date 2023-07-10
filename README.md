@@ -1,6 +1,9 @@
   <h1>・About Me</h1>
 Merhaba, ben Muhammet. 16 yaşında, kendi halinde bir yazılım öğrencisiyim. Yaklaşık 2 Yıl önce Discord botları hakkında birkaç kod geliştirerek başladım.
-
+  <details>
+    <summary> &nbsp; &nbsp; &nbsp; <b>Discord Presence</b></summary>
+    <img src="https://lanyard-profile-readme.vercel.app/api/793008866815901736?bg=0d1117">
+    
 `Yakında birsürü kod & altyapılar ile sizlerle olacağım.`
   <h1>・ Github İstatistikleri</h1>
 </p>
