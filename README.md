@@ -9,7 +9,6 @@ Merhaba, ben Muhammet. 16 yaşında, kendi halinde bir yazılım öğrencisiyim.
   <img src="https://github-readme-stats.vercel.app/api?username=juresk&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="150px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juresk&layout=compact&theme=midnight-purple&hide_border=true" width="%100" height="150px">
   <br><br>   
-  
     <summary> &nbsp; &nbsp; &nbsp; <b>Discord Presence</b></summary>
     <img src="https://lanyard-profile-readme.vercel.app/api/793008866815901736?bg=0d1117">
     
